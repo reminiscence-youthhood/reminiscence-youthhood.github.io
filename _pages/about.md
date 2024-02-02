@@ -21,9 +21,10 @@ redirect_from:
 本人现于鲁东大学土木工程学院工作，担任岩土工程方向的教学工作，研究领域主要包括岩石断裂力学、数值建模方法、岩石断口学。欢迎有志于从事岩石力学领域研究的学生报考。
 
 
-# 🔥 科教项目
+# ![00466647](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/238cbd89-b4cd-4a50-ba86-d63565821439)
+ 科教项目
 **科研项目**
-![003FB8BE](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/a32c9e59-a346-480e-b679-6a175ea742e1)
+
 
 国家自然科学基金青年科学基金项目，水热环境中循环荷载作用下岩石裂纹发育及损伤演化机制研究（52104089），主持，2022.01至今.
 
@@ -103,7 +104,8 @@ redirect_from:
 
 张拥军，杨登峰，王晨，王玉山，胥耀林，王金涛. 远程监测数据采集设备的保护装置，ZL201320445432.4，2013.12.
 
-# 🎖 获奖荣誉
+# ![00462D16](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/28dc6e40-fe69-45d1-84df-76d42ba09084)
+ 获奖荣誉
 **科研荣誉**
 
 教育部科学技术进步奖，二等奖（4/14），深部采矿围岩破坏力学及全空间协同控制技术，2016-229，2017.02.
@@ -130,7 +132,8 @@ redirect_from:
 
 鲁东大学先进工作者，2022.01.
 
-# 💬 学术兼职
+# ![004598D5](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/ac3ad66c-2e8c-46e2-874e-85e40ac57b80)
+ 学术兼职
 国际岩石力学学会（ISRM）会员
 
 中国岩石力学与工程学会会员
@@ -145,5 +148,6 @@ redirect_from:
 
 第九届全国高校BIM毕业设计创新大赛评审专家
 
-# :busts_in_silhouette: 团队成员
+# ![0044F254](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/a7cc2d71-492e-4f89-828d-2d2c8813624f)
+ 团队成员
 2023级 王传昊
