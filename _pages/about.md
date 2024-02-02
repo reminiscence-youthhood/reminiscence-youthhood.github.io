@@ -85,7 +85,7 @@ redirect_from:
 
 [Yongjun Zhang, Liqian An, Lingtao Mao, Jintao Wang. Experimental Study on the Progressive Failure Zone of Non-Bolted Roadway with Infrared Radiation Detection[J]. Applied Mechanics and Materials, 2012, 178-181:1555–1559.](https://doi.org/10.4028/www.scientific.net/AMM.178-181.1555)
 
-# 🎖 著作专利
+# 📖 著作专利
 **著作**
 
 左建平，曹光明，孙运江，王金涛，陈岩. 采矿围岩破坏力学与全空间协同控制实践[M]. 北京：科学出版社. 2016.
@@ -102,7 +102,7 @@ redirect_from:
 
 张拥军，杨登峰，王晨，王玉山，胥耀林，王金涛. 远程监测数据采集设备的保护装置，ZL201320445432.4，2013.12.
 
-# 📖 获奖荣誉
+# 🎖 获奖荣誉
 **科研荣誉**
 
 教育部科学技术进步奖，二等奖（4/14），深部采矿围岩破坏力学及全空间协同控制技术，2016-229，2017.02.
@@ -144,5 +144,5 @@ redirect_from:
 
 第九届全国高校BIM毕业设计创新大赛评审专家
 
-# 💻 团队成员
+# U+1F46C 团队成员
 2023级 王传昊
