@@ -42,7 +42,7 @@ redirect_from:
 
 鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09.
 
-# 📝 Publications 
+# 📝  <font color="white">Publications</font>
 
 [Jintao Wang, Jianping Zuo, Yunjiang Sun, Jinhao Wen. The effects of thermal treatments on the fatigue crack growth of Beishan granite: an in situ observation study[J]. Bulletin of Engineering Geology and the Environment, 2021, 80(2):1541–1555.]( https://doi.org/10.1007/s10064-020-01966-w)
 
