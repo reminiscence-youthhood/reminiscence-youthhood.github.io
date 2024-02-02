@@ -23,6 +23,7 @@ redirect_from:
 
 # 🔥 科教项目
 **科研项目**
+![003FB8BE](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/a32c9e59-a346-480e-b679-6a175ea742e1)
 
 国家自然科学基金青年科学基金项目，水热环境中循环荷载作用下岩石裂纹发育及损伤演化机制研究（52104089），主持，2022.01至今.
 
