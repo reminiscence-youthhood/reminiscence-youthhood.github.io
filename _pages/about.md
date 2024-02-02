@@ -144,5 +144,5 @@ redirect_from:
 
 第九届全国高校BIM毕业设计创新大赛评审专家
 
-# U+1F46C 团队成员
+# :busts_in_silhouette: 团队成员
 2023级 王传昊
