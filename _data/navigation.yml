@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
+  - title: "科教项目"
+    url: "/#-科教项目"
+
+  - title: "已发表论文"
+    url: "/#-已发表论文"
+
+  - title: "著作专利"
+    url: "/#-著作专利"
+
+  - title: "获奖荣誉"
     url: "/#-获奖荣誉"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "学术兼职"
+    url: "/#-学术兼职"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "团队成员"
+    url: "/#- 团队成员"
