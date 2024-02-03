@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "科教项目"
-    url: "/#科教项目"
+    url: "/#-news"
 
   - title: "已发表论文"
     url: "/#-publications"
