@@ -20,7 +20,7 @@ redirect_from:
 # about me
 本人现于鲁东大学土木工程学院工作，担任岩土工程方向的教学工作，研究领域主要包括岩石断裂力学、数值建模方法、岩石断口学。欢迎有志于从事岩石力学领域研究的学生报考。
 
-<span id="news"></span>
+<span class='anchor' id="news"></span>
 # ![00466647](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/238cbd89-b4cd-4a50-ba86-d63565821439) 科教项目
 **科研项目**
 
@@ -42,7 +42,7 @@ redirect_from:
 
 鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09.
 
-<span id="publications"></span>
+<span class='anchor' id="publications"></span>
 # 📝 已发表论文
 
 [Jintao Wang, Jianping Zuo, Yunjiang Sun, Jinhao Wen. The effects of thermal treatments on the fatigue crack growth of Beishan granite: an in situ observation study[J]. Bulletin of Engineering Geology and the Environment, 2021, 80(2):1541–1555.]( https://doi.org/10.1007/s10064-020-01966-w)
@@ -86,7 +86,7 @@ redirect_from:
 [张拥军,杨登峰,王金涛,陈关平.露天边坡局部失稳特征的数值分析及监测[J].金属矿山,2014,(10):142-147.]()
 
 [Yongjun Zhang, Liqian An, Lingtao Mao, Jintao Wang. Experimental Study on the Progressive Failure Zone of Non-Bolted Roadway with Infrared Radiation Detection[J]. Applied Mechanics and Materials, 2012, 178-181:1555–1559.](https://doi.org/10.4028/www.scientific.net/AMM.178-181.1555)
-<span id="honors-and-awards"></span>
+<span class='anchor' id="honors-and-awards"></span>
 # 📖 著作专利
 **著作**
 
@@ -103,7 +103,7 @@ redirect_from:
 张拥军，杨登峰，王晨，王玉山，胥耀林，王金涛. 钻孔监测点保护盖，ZL201320445433.9，2013.12.
 
 张拥军，杨登峰，王晨，王玉山，胥耀林，王金涛. 远程监测数据采集设备的保护装置，ZL201320445432.4，2013.12.
-<span id="educations"></span>
+<span class='anchor' id="educations"></span>
 # ![00462D16](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/28dc6e40-fe69-45d1-84df-76d42ba09084) 获奖荣誉
 **科研荣誉**
 
@@ -130,7 +130,7 @@ redirect_from:
 烟台市高层次人才，中共烟台市委人才工作领导小组，2022.
 
 鲁东大学先进工作者，2022.01.
-<span id="invited-talks"></span>
+<span class='anchor' id="invited-talks"></span>
 # ![004598D5](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/ac3ad66c-2e8c-46e2-874e-85e40ac57b80) 学术兼职
 国际岩石力学学会（ISRM）会员
 
@@ -145,6 +145,6 @@ redirect_from:
 山东省大学生创新创业大赛评审专家
 
 第九届全国高校BIM毕业设计创新大赛评审专家
-<span id="internships"></span>
+<span class='anchor' id="internships"></span>
 # ![0044F254](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/a7cc2d71-492e-4f89-828d-2d2c8813624f) 团队成员
 2023级 王传昊
