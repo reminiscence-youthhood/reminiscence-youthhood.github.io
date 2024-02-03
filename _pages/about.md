@@ -43,7 +43,7 @@ redirect_from:
 鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09.
 
 <span class='anchor' id="publications"></span>
-# 📝 已发表论文
+# ![00A11686](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/dbbde0d1-7ece-4f7f-b70e-b702b8eb50ec) 已发表论文
 
 [Jintao Wang, Jianping Zuo, Yunjiang Sun, Jinhao Wen. The effects of thermal treatments on the fatigue crack growth of Beishan granite: an in situ observation study[J]. Bulletin of Engineering Geology and the Environment, 2021, 80(2):1541–1555.]( https://doi.org/10.1007/s10064-020-01966-w)
 
@@ -87,7 +87,7 @@ redirect_from:
 
 [Yongjun Zhang, Liqian An, Lingtao Mao, Jintao Wang. Experimental Study on the Progressive Failure Zone of Non-Bolted Roadway with Infrared Radiation Detection[J]. Applied Mechanics and Materials, 2012, 178-181:1555–1559.](https://doi.org/10.4028/www.scientific.net/AMM.178-181.1555)
 <span class='anchor' id="honors-and-awards"></span>
-# 📖 著作专利
+# ![00A166D9](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/a19e930b-43af-4650-b793-3320d85fc24e) 著作专利
 **著作**
 
 左建平，曹光明，孙运江，王金涛，陈岩. 采矿围岩破坏力学与全空间协同控制实践[M]. 北京：科学出版社. 2016.
