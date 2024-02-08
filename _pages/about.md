@@ -132,7 +132,7 @@ redirect_from:
 
 ●鲁东大学先进工作者，2022.01.
 <span class='anchor' id="invited-talks"></span>
-# ![004598D5](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/ac3ad66c-2e8c-46e2-874e-85e40ac57b80) 学术兼职
+# 👨‍💻学术兼职
 ●国际岩石力学学会（ISRM）会员
 
 ●中国岩石力学与工程学会会员
