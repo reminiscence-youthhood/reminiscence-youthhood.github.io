@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# about me
+# About Me
 本人现于鲁东大学土木工程学院工作，担任岩土工程方向的教学工作，研究领域主要包括岩石断裂力学、数值建模方法、岩石断口学。欢迎有志于从事岩石力学领域研究的学生报考。
 
 <span class='anchor' id="news"></span>
@@ -39,7 +39,7 @@ redirect_from:
 
 **教学项目**
 
-鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09.
+●鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09.
 
 <span class='anchor' id="publications"></span>
 # ![00A11686](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/dbbde0d1-7ece-4f7f-b70e-b702b8eb50ec) 已发表论文
@@ -58,6 +58,7 @@ redirect_from:
 
 ●Jian-Ping Zuo, Yu-Lin Li, Cunhui Liu, Hai-yan Liu, Jintao Wang, Hong-tao Li, Lei Liu. [Meso-fracture mechanism and its fracture toughness analysis of Longmaxi shale including different angles by means of M-SENB tests[J].](https://doi.org/10.1016/j.engfracmech.2019.05.009) 
  Engineering Fracture Mechanics, 2019, 215:178–192.
+ 
 ●Jian-ping Zuo, Jin-hao Wen, Yong-dong Li, Yun-jiang Sun, Jin-tao Wang, Yun-qian Jiang, Lei Liu. [Investigation on the interaction mechanism and failure behavior between bolt and rock-like mass[J].](https://doi.org/10.1016/j.tust.2019.103070) Tunnelling and Underground Space Technology, 2019, 93:103070.
 
 ●左建平,孙运江,王金涛,史月,文金浩.[充分采动覆岩“类双曲线”破坏移动机理及模拟分析[J].](https://doi.org/10.13545/j.cnki.jmse.2018.01.010)采矿与安全工程学报,2018,35(01):71-77.
@@ -128,7 +129,7 @@ redirect_from:
 
 ●烟台市高层次人才，中共烟台市委人才工作领导小组，2022.
 
-鲁东大学先进工作者，2022.01.
+●鲁东大学先进工作者，2022.01.
 <span class='anchor' id="invited-talks"></span>
 # ![004598D5](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/ac3ad66c-2e8c-46e2-874e-85e40ac57b80) 学术兼职
 ●国际岩石力学学会（ISRM）会员
