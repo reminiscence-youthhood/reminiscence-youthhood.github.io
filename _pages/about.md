@@ -22,7 +22,7 @@ redirect_from:
 &ensp;&ensp;&ensp;&ensp;本人现于鲁东大学土木工程学院工作，担任岩土工程方向的教学工作，研究领域主要包括岩石断裂力学、数值建模方法、岩石断口学。欢迎有志于从事岩石力学领域研究的学生报考。
 
 <span class='anchor' id="news"></span>
-# ![00466647](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/238cbd89-b4cd-4a50-ba86-d63565821439) :memo: 科教项目
+# ![00466647](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/238cbd89-b4cd-4a50-ba86-d63565821439) :memo:  科教项目
 **科研项目**
 
 
@@ -43,7 +43,7 @@ redirect_from:
 ●鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09.
 
 <span class='anchor' id="publications"></span>
-# ![00A11686](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/dbbde0d1-7ece-4f7f-b70e-b702b8eb50ec) 已发表论文
+# ![00A11686](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/dbbde0d1-7ece-4f7f-b70e-b702b8eb50ec) /UE422 已发表论文
 
 ●**Jintao Wang**, Jianping Zuo, Yunjiang Sun, Jinhao Wen. [The effects of thermal treatments on the fatigue crack growth of Beishan granite: an in situ observation study[J].]( https://doi.org/10.1007/s10064-020-01966-w) Bulletin of Engineering Geology and the Environment, 2021, 80(2):1541–1555.
 
