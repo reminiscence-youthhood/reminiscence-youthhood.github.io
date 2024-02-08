@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
+
     本人现于鲁东大学土木工程学院工作，担任岩土工程方向的教学工作，研究领域主要包括岩石断裂力学、数值建模方法、岩石断口学。欢迎有志于从事岩石力学领域研究的学生报考。
 
 <span class='anchor' id="news"></span>
