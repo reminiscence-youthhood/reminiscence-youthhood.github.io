@@ -22,7 +22,7 @@ redirect_from:
 &ensp;&ensp;&ensp;&ensp;本人现于鲁东大学土木工程学院工作，担任岩土工程方向的教学工作，研究领域主要包括岩石断裂力学、数值建模方法、岩石断口学。欢迎有志于从事岩石力学领域研究的学生报考。
 
 <span class='anchor' id="news"></span>
-#  📝科教项目
+#  📌科教项目
 **科研项目**
 
 
@@ -43,7 +43,7 @@ redirect_from:
 ●鲁东大学课堂教学改革研究项目，混凝土结构设计原理（2022J64），主持，2022.09.
 
 <span class='anchor' id="publications"></span>
-# ![00A11686](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/dbbde0d1-7ece-4f7f-b70e-b702b8eb50ec) /UE422 已发表论文
+# 📰已发表论文
 
 ●**Jintao Wang**, Jianping Zuo, Yunjiang Sun, Jinhao Wen. [The effects of thermal treatments on the fatigue crack growth of Beishan granite: an in situ observation study[J].]( https://doi.org/10.1007/s10064-020-01966-w) Bulletin of Engineering Geology and the Environment, 2021, 80(2):1541–1555.
 
@@ -88,7 +88,7 @@ redirect_from:
 
 ●Yongjun Zhang, Liqian An, Lingtao Mao,**Jintao Wang**. [Experimental Study on the Progressive Failure Zone of Non-Bolted Roadway with Infrared Radiation Detection[J].](https://doi.org/10.4028/www.scientific.net/AMM.178-181.1555) Applied Mechanics and Materials, 2012, 178-181:1555–1559.
 <span class='anchor' id="honors-and-awards"></span>
-# ![00A166D9](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/a19e930b-43af-4650-b793-3320d85fc24e) 著作专利
+# 💡著作专利
 **著作**
 
 ●左建平，曹光明，孙运江，**王金涛**，陈岩. 采矿围岩破坏力学与全空间协同控制实践[M]. 北京：科学出版社. 2016.
@@ -105,7 +105,7 @@ redirect_from:
 
 ●张拥军，杨登峰，王晨，王玉山，胥耀林，**王金涛**. 远程监测数据采集设备的保护装置，ZL201320445432.4，2013.12.
 <span class='anchor' id="educations"></span>
-# ![00462D16](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/28dc6e40-fe69-45d1-84df-76d42ba09084) 获奖荣誉
+#  🏆获奖荣誉
 **科研荣誉**
 
 ●教育部科学技术进步奖，二等奖（4/14），深部采矿围岩破坏力学及全空间协同控制技术，2016-229，2017.02.
@@ -147,5 +147,5 @@ redirect_from:
 
 ●第九届全国高校BIM毕业设计创新大赛评审专家
 <span class='anchor' id="internships"></span>
-# ![0044F254](https://github.com/huangdog1223/huangdog1223.github.io/assets/154737178/a7cc2d71-492e-4f89-828d-2d2c8813624f) 团队成员
+# 🧑‍🤝‍🧑 团队成员
 ●2023级 王传昊
